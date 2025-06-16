@@ -52,8 +52,8 @@ python main.py
 - The app will be available at http://127.0.0.1:5000/
 
 ## Demo Login Credentials
-- **Admin:** ali.raza@tourism.pk / admin123
-- **User:** ahmed.k@example.com / user123
+- **Admin:** admin@tourism.pk / admin123
+- **User:** user1@example.com / user123
 
 
 © 2025 Pakistan Tourism Management System
